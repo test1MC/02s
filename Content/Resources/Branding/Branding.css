@@ -1,0 +1,15 @@
+/* MadCap-Branding applanguage:Templates/Projects/Online/eLearning/ */
+
+:root
+{
+	--Brand1: #076685;
+	--Brand2: #cde0e7;
+	--Dark: #45494c;
+	--Light: #d0d3d5;
+	--ExtraLight: #f3f4f4;
+	--Medium: #b9bec1;
+	--HeroImage: url('../Images/Hero-Image.png');
+	--FontFamily: Arial, Avenir, Myriad;
+	--LogoImage: url('../Images/Austin-Logo-Online.png');
+}
+
